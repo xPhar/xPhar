@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-- 🌱 I’m currently studying computer science @ the University of Toronto.
-- 🔭 I’m currently working on building proficiency in C++.
-- 🤔 I’m looking for help with learning full-stack development.
+- 🌱 I’m studying Computer Science at the University of Toronto.
+- 🔭 I’m currently building proficiency in C++.
+- 💬 I'm interested in public transit, video games, and hockey!
 
 <!--
 **xPhar/xPhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
